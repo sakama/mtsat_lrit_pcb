@@ -1,0 +1,8 @@
+*.b#*	
+*.s#*	
+*.l#*
+*.dri
+*.gpi
+*.pro
+*.epf
+*.DS_Store
